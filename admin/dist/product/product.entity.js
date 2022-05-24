@@ -30,7 +30,7 @@ __decorate([
     __metadata("design:type", Number)
 ], Product.prototype, "likes", void 0);
 Product = __decorate([
-    (0, typeorm_1.Entity)()
+    (0, typeorm_1.Entity)({ name: 'Products' })
 ], Product);
 exports.Product = Product;
 //# sourceMappingURL=product.entity.js.map
