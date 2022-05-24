@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "path": "./admin"
+    },
+    {
+      "path": "./main"
+    },
+    {
+      "path": "./products-react"
+    }
+  ],
+  "settings": {}
+}
